@@ -8,9 +8,9 @@
 
 ## John Savill's Technical Training
 
-- [AZ-900 Azure Fundamentals Certification Course](https://www.youtube.com/playlist?list=PLlVtbbG169nED0_vMEniWBQjSoxTsBYS3)
+- [AZ-900 Azure Fundamentals Certification Course (youtube)](https://www.youtube.com/playlist?list=PLlVtbbG169nED0_vMEniWBQjSoxTsBYS3)
   - [handout with all links and whiteboards](https://github.com/johnthebrit/AZ900CertCourse)
 
 ### Cloud Adoption Framework
 
-[cloud-adoption-framework](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/)
+- https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/
