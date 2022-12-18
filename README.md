@@ -66,3 +66,7 @@
   - [Azure SLAs](https://azure.microsoft.com/support/legal/sla/)
   - [Azure Status](https://status.azure.com/status)
 - [Azure Advisor, Monitor, Service Health](https://learn.microsoft.com/fr-fr/training/modules/monitoring-fundamentals/2-identify-product-options)
+
+## AZ-900 Study Cram Whiteboard
+
+![AZ-900 Study Cram Whiteboard](AZ-900-cram-Whiteboard.png)
