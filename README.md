@@ -3,9 +3,9 @@
 ## Microsoft resources
 
 - [Exam AZ-900: Microsoft Azure Fundamentals](https://docs.microsoft.com/en-us/certifications/exams/az-900)
-- [Sample Questions AZ-900: Microsoft Azure Fundamentals](https://docs.microsoft.com/en-us/certifications/resources/az-900-sample-questions?azure-portal=true)
-- [Study Guide](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY)
-- [Exam Sandbox](https://aka.ms/examdemo)
+  - [Sample Questions AZ-900: Microsoft Azure Fundamentals](https://docs.microsoft.com/en-us/certifications/resources/az-900-sample-questions?azure-portal=true)
+  - [Study Guide](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY)
+  - [Exam Sandbox](https://aka.ms/examdemo)
 
 ## John Savill's Technical Training
 
